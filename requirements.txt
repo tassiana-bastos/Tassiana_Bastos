@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+transformers
+torch
+sentencepiece
+langchain
+langchain-core
+langchain-openai
+langchain-huggingface
