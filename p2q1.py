@@ -1,7 +1,7 @@
 """
 Parte 2 - Questão 1
 Chatbot simulado com LangChain FakeListLLM e FastAPI.
-Executar: uvicorn p2q1:app --reload --port 8003
+
 """
 from fastapi import FastAPI
 from pydantic import BaseModel, Field
